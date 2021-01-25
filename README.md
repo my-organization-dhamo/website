@@ -2,6 +2,4 @@
 
 This is demo Website.
 
-Now updating from update-readme branch.
-
-Updting manually. and last tweak.
+Updating before reabse.
