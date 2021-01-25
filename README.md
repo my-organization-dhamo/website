@@ -14,3 +14,8 @@ this was edited locally.
 
 ## Purpose file
 Just a readme file
+
+
+## Getting Started
+
+For starts the project uou have to `clone` repository to your desktop.  
